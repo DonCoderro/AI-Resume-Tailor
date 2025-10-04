@@ -28,7 +28,7 @@ It allows you to upload a CV file (.pdf, .docx) and a job offer (.htm), then gen
 
 1. Clone the repository:
 
-   git clone https://github.com/twoj-profil/ai-resume-tailor.git
+   git clone https://github.com/DonCoderro/AI-Resume-Tailor.git
    cd ai-resume-tailor
 
 2. Create a virtual environment and install dependencies:
