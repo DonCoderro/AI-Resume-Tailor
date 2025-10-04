@@ -1,0 +1,4 @@
+2025-09-30 23:00:50 [ERROR] File not found: [Errno 2] No such file or directory: 'CV1.pdf'
+2025-09-30 23:00:50 [ERROR] File not found: [Errno 2] No such file or directory: 'offer1.htm'
+2025-10-03 22:36:51 [ERROR] Unexpected error: expected str, bytes or os.PathLike object, not UploadedFile
+2025-10-03 22:36:51 [ERROR] Unexpected error: expected str, bytes or os.PathLike object, not UploadedFile
